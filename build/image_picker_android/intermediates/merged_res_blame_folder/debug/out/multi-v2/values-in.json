@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\xampp\\htdocs\\Laravel-Flutter-Login-and-Registration - Copy\\flutter_app\\build\\image_picker_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\e900ec4f4c95348fe944da4cbacc55d8\\core-1.10.1\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,349,446,552,670,785",
+                        "endColumns": "94,101,96,96,105,117,114,100",
+                        "endOffsets": "145,247,344,441,547,665,780,881"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\xampp\\htdocs\\Laravel-Flutter-Login-and-Registration - Copy\\flutter_app\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\values-in\\values-in.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\e900ec4f4c95348fe944da4cbacc55d8\\core-1.10.1\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,349,446,552,670,785",
+                        "endColumns": "94,101,96,96,105,117,114,100",
+                        "endOffsets": "145,247,344,441,547,665,780,881"
+                    }
+                }
+            ]
+        }
+    ]
+}

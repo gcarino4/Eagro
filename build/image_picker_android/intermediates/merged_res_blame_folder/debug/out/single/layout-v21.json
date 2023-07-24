@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\xampp\\htdocs\\Laravel-Flutter-Login-and-Registration - Copy\\flutter_app\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\e900ec4f4c95348fe944da4cbacc55d8\\core-1.10.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Laravel-Flutter-Login-and-Registration - Copy\\flutter_app\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\e900ec4f4c95348fe944da4cbacc55d8\\core-1.10.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Laravel-Flutter-Login-and-Registration - Copy\\flutter_app\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\e900ec4f4c95348fe944da4cbacc55d8\\core-1.10.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\Laravel-Flutter-Login-and-Registration - Copy\\flutter_app\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\e900ec4f4c95348fe944da4cbacc55d8\\core-1.10.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

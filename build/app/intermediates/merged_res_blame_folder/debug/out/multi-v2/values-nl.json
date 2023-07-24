@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\xampp\\htdocs\\Laravel-Flutter-Login-and-Registration - Copy\\flutter_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nl\\values-nl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\e900ec4f4c95348fe944da4cbacc55d8\\core-1.10.1\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,259,359,459,566,670,789",
+                        "endColumns": "101,101,99,99,106,103,118,100",
+                        "endOffsets": "152,254,354,454,561,665,784,885"
+                    }
+                }
+            ]
+        }
+    ]
+}
